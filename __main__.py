@@ -1,4 +1,3 @@
-from cmath import pi
 import pygame
 import threading
 import time
