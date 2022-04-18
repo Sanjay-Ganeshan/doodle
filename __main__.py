@@ -493,6 +493,8 @@ class Canvas:
                         self.brush_settings.smaller()
                     if key == pygame.K_RIGHTBRACKET:
                         self.brush_settings.bigger()
+                    if key == pygame.K_0:
+                        self.brush_settings.choose_brush(0)
                     if key == pygame.K_o:
                         self.brush_settings.prev_brush()
                     if key == pygame.K_p:
