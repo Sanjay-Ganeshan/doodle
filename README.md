@@ -1,5 +1,9 @@
 Simple doodling + stamp application
 
+![Screenshot of Use](example.png)
+
+*Icons used here are from the "Teyvat Interactive Map" from Hoyoverse, I am not affiliated with them in any way*
+
 # Install
 
 ```
@@ -23,7 +27,7 @@ python -m doodle
 # Use
 
 ### Adding stamps
-You can add stamps that you want accessible as .png files in the `stamps/` directory.
+You can add stamps / brushes that you want accessible as .png files in the `stamps/` directory.
 
 ### General
 
