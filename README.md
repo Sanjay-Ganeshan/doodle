@@ -22,6 +22,9 @@ python -m doodle
 
 # Use
 
+### Adding stamps
+You can add stamps that you want accessible as .png files in the `stamps/` directory.
+
 ### General
 
 ESC / X-button: Close
